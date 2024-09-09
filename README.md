@@ -1,3 +1,3 @@
 # First-Angular-Project
 
-Angular Basic Essentials useing Components, Templates, Services
+Angular Basic Essentials using Components, Templates, Services
